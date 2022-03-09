@@ -1,5 +1,5 @@
 # Gameman
-##Games library
+## Games library
 
 PROJECT DESCRIPTION: Gameman
 
